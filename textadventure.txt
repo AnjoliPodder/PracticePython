@@ -1,0 +1,20 @@
+1 simple N2
+2 leafy flower S1 W3 E4
+3 dark diamond lantern E2 N6
+4 bright diamond mirror W2 N7
+5 hushed E6 bell
+6 peaceful S3 N9 book pen W5
+7 grand S4 N10 slipper goblet crown spear
+8 cramped N12 suit dress boot
+9 blue fishbowl S6 N13
+10 small S7 N15 E11
+11 long W10 painting candle E12
+12 messy bead button ribbon string needle cloth spool W11 N16 S8
+13 watery waterlily N17 S9 E14 goldfish pearl
+14 tiled E15 W13 soap
+15 panelled W14 S10 towel bathrobe
+16 windowed S12 ruler quill
+17 windy N19 S13 kite
+18 golden E19 sword staff bow shield helmet
+19 white S17 feather curtain paintbrush W18 E20 
+20 silver W19 shield quiver ring

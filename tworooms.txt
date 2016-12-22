@@ -1,0 +1,2 @@
+1 normal N2
+2 treasure-filled sword S1 shield diamond ruby
